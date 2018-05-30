@@ -1,8 +1,8 @@
 # SkillShare Tumblr
 
 ## Features
-- Boostrap Grid for Responsive Page
+- Boostrap Grid for responsive page
 - Lazyloading in place
-- Back-To-Top Button added
-- Hosted on the Web (Link is above)
-- Tests all passing
+- Back-To-Top button added
+- Hosted on the web (Link is above)
+- All tests passing
