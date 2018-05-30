@@ -1,5 +1,6 @@
 {
   "name": "starter-react-api",
+  "homepage": "https://www.jarrodsampson.com/skillshare/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
