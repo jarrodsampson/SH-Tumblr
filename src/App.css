@@ -1,0 +1,13 @@
+.App {
+    margin:auto;
+}
+
+.thumbs {
+    width:100%;
+    padding-bottom:1em;
+}
+
+.hidden {
+    display:none;
+    transition: all 2s;
+}
