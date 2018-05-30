@@ -10,6 +10,6 @@
 ## Improvements I'd Make
 - CSS to SASS
 - Tumblr Photo listing in separate component out of main component
-- Hide API Key with a secrets.json file
+- Place API Key with a secrets.json file and not hard-coded in code
 - UI/UX loading experience for first time load
 - Expand test coverage
